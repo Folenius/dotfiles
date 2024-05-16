@@ -13,3 +13,7 @@ Qtile requirements:
 ```
 sudo pacman -Sy qtile lightdm lightdm-gtk-greeter nitrogen picom python-psutil udiskie network-manager-applet volumeicon pacman-contrib
 ```
+If you would like to, you may also use Nerd Fonts, install them using:
+```
+sudo pacman -Sy nerd-fonts
+```
