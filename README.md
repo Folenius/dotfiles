@@ -8,11 +8,8 @@ All the following configurations are all made by me, some of them are actually b
 Please, do not ask for comitting changes on them, isntead in case if you find a bug or error on these dotfiles.
 
 
-# Requirements
-Qtile:\n
--Nitrogen
--Python Psutils
--Picom
--Udiskie
--Volumeicon
--Network Manager Applet
+# Install Requirements (Arch based systems)
+Qtile requirements:
+```
+sudo pacman -Sy qtile lightdm lightdm-gtk-greeter nitrogen picom python-psutil udiskie network-manager-applet volumeicon pacman-contrib
+```
