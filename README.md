@@ -9,7 +9,7 @@ Please, do not ask for comitting changes on them, isntead in case if you find a 
 
 
 # Requirements
-Qtile:
+Qtile:\n
 -Nitrogen
 -Python Psutils
 -Picom
