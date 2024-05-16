@@ -1,0 +1,10 @@
+#!/bin/bash
+
+lazy.spawn("")
+
+udiskie -t &
+nm-applet &
+volumeicon &
+picom &
+setxkbmap us -v dvorak
+feh --bg-scale ~/Imágenes/Anime-Arch-WP.png 
